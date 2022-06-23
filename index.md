@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Estou feliz que esteja aqui. Eu planejo falar sobre meus estudos
